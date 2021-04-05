@@ -1,0 +1,22 @@
+#green
+{
+    width:440px;
+    background-color: green;
+    height:440px;
+    padding:50px;
+}
+
+#blue
+{
+    width:220px;
+    background-color:blue;
+    height:220px;
+    padding:100px;
+}
+#red
+{
+    width:110px;
+    background-color: red;
+    height:110px;
+    padding:50px;
+}
